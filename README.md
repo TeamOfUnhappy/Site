@@ -2,16 +2,8 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Site TeamOfUnhappy</title>
-  <style>
-   .fig {
-    display: block;
-    text-align: center;
-    font-style: italic;
-    margin-top: 0;
-    margin-bottom: 5px;
-    color: #666;
-   }
+  
+   
   </style>
 
  </head>
